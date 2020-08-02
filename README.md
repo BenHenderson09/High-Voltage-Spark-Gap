@@ -1,7 +1,7 @@
 # High-Voltage-Spark-Gap
 Using an astable 555 timer IC to drive an ignition coil in order to create continuous high voltage arcs across a spark gap.
 
-<img src="image.jpg" width="250"> <img src="schematic.png" width="750">
+<img src="image.jpg" width="250"><img src="schematic.png" width="700">
 
 ## How does it work?
 For a large spark to occur, a high voltage (of at least a few thousand volts) must be present. To achieve this, a step-up transformer
