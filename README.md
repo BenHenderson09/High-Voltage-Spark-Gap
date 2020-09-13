@@ -15,3 +15,5 @@ If the described process is repeated many times per second, then we get a contin
 In order to repeatedly create sparks, an astable 555 timer has been used.
 The astable 555 creates an oscillating square wave output, which is connected to the base of an NPN transistor. This will open and
 close a pathway to the primary, at a high frequency, therefore creating continuous high voltage arcs.
+
+**Note:** The diode on the left side of the image is a TVS diode.
